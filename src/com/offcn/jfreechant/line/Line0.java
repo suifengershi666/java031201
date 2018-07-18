@@ -29,6 +29,7 @@ public class Line0 {
 		ChartUtilities.writeChartAsJPEG(new FileOutputStream("d:\\chart\\line2.jpg"), chart, 700, 500);
 		System.out.println("ok");
 	}*/
+		System.out.println("hello");
 	}
 
 }
