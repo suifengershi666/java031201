@@ -30,6 +30,8 @@ public class Line0 {
 		System.out.println("ok");
 	}*/
 		System.out.println("hello");
+		System.out.println("hello2");
+		
 	}
 
 }
