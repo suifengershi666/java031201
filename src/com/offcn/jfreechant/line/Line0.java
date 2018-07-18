@@ -3,34 +3,35 @@ package com.offcn.jfreechant.line;
 public class Line0 {
 
 	public static void main(String[] args) {
-		/*//1\´´½¨Êý¾Ý¼¯ºÏ
+		/*//1\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¼ï¿½ï¿½ï¿½
 		DefaultCategoryDataset dataset = new DefaultCategoryDataset();
-		dataset.setValue(100, "±±¾©", "Æ»¹û");
-		dataset.setValue(70, "±±¾©", "ÆÏÌÑ");
-		dataset.setValue(80, "±±¾©", "Àæ×Ó");
-		dataset.setValue(150, "±±¾©", "Ïã½¶");
-		dataset.setValue(60, "±±¾©", "¹þÃÜ¹Ï");
-		dataset.setValue(110, "±±¾©", "²¤ÂÜ");
+		dataset.setValue(100, "ï¿½ï¿½ï¿½ï¿½", "Æ»ï¿½ï¿½");
+		dataset.setValue(70, "ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½");
+		dataset.setValue(80, "ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½");
+		dataset.setValue(150, "ï¿½ï¿½ï¿½ï¿½", "ï¿½ã½¶");
+		dataset.setValue(60, "ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½Ü¹ï¿½");
+		dataset.setValue(110, "ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½");
 		
-		//2¡¢´´½¨Í¼±í¶ÔÏó
-		JFreeChart chart = ChartFactory.createLineChart("Ë®¹ûÏúÁ¿Í¼", "Ë®¹û", "ÏúÁ¿", dataset, PlotOrientation.VERTICAL, true, true, false);
+		//2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¼ï¿½ï¿½ï¿½ï¿½ï¿½
+		JFreeChart chart = ChartFactory.createLineChart("Ë®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¼", "Ë®ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½", dataset, PlotOrientation.VERTICAL, true, true, false);
 
-		//3¡¢Éè¶¨»æÍ¼ÇøÊôÐÔ
+		//3ï¿½ï¿½ï¿½è¶¨ï¿½ï¿½Í¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		CategoryPlot plot = chart.getCategoryPlot();
-		//´´½¨äÖÈ¾Æ÷¶ÔÏó
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		LineAndShapeRenderer render = new LineAndShapeRenderer();
-		//Éè¶¨äÖÈ¾Æ÷µÄ±êÇ©
+		//ï¿½è¶¨ï¿½ï¿½È¾ï¿½ï¿½ï¿½Ä±ï¿½Ç©
 		render.setBaseItemLabelGenerator(new StandardCategoryItemLabelGenerator());
 		render.setBaseItemLabelsVisible(true);
 		
-		//¹ØÁªäÖÈ¾Æ÷ºÍ»æÍ¼Çø
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¾ï¿½ï¿½ï¿½Í»ï¿½Í¼ï¿½ï¿½
 		plot.setRenderer(render);
-		//4\Éú³ÉÍ¼Æ¬
+		//4\ï¿½ï¿½ï¿½ï¿½Í¼Æ¬
 		ChartUtilities.writeChartAsJPEG(new FileOutputStream("d:\\chart\\line2.jpg"), chart, 700, 500);
 		System.out.println("ok");
 	}*/
 		System.out.println("hello");
 		System.out.println("hello2");
+		System.out.println("hello3");
 		
 		System.out.println("hello4");
 		
