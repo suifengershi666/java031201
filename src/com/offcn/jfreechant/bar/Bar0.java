@@ -1,7 +1,7 @@
 package com.offcn.jfreechant.bar;
 
 public class Bar0 {
-	/*
+	/*+++++++++++++++++++++++++
 	 * 	//1\准备数据集合
 		/*DefaultCategoryDataset dataset = new DefaultCategoryDataset();
 		dataset.addValue(150, "北京", "西瓜");
